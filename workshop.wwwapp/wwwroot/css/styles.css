@@ -1,0 +1,95 @@
+﻿body {
+    background-color: #ffccff;
+    font-family: 'Comic Sans MS', cursive, sans-serif;
+    color: #0000ff;
+    text-align: center;
+    height: 100vh;
+    margin: 0;
+}
+
+h2 {
+    text-shadow: 2px 2px #ff0000;
+    animation: blink 1s infinite;
+}
+
+@keyframes blink {
+    0% {
+        opacity: 1;
+    }
+
+    50% {
+        opacity: 0;
+    }
+
+    100% {
+        opacity: 1;
+    }
+}
+
+.table {
+    border: 3px solid #00ff00;
+    margin: 20px auto;
+    width: 80%;
+    transform: rotate(10deg);
+}
+
+.form-section {
+    margin-top: 20px;
+    border: 2px dashed #ff00ff;
+    padding: 20px;
+    background-color: #ffffcc;
+    transform: rotate(-10deg);
+}
+
+.form-group {
+    margin-bottom: 15px;
+}
+
+.btn {
+    background-color: #ff00ff;
+    color: #ffffff;
+    font-weight: bold;
+    transform: rotate(5deg);
+}
+
+    .btn:hover {
+        background-color: #ff69b4;
+    }
+
+.winking-duck {
+    position: fixed;
+    bottom: 10px;
+    right: 10px;
+    width: 100px;
+    animation: wink 2s infinite;
+}
+
+@keyframes wink {
+    0%, 100% {
+        transform: rotate(0deg);
+    }
+
+    50% {
+        transform: rotate(20deg);
+    }
+}
+
+.abstract-table {
+    transform: rotate(15deg);
+}
+
+.abstract-form {
+    transform: rotate(-15deg);
+}
+
+.abstract-btn {
+    transform: rotate(10deg);
+}
+
+marquee {
+    position: absolute;
+    left: 0;
+    top: 0;
+    width: 150vw;
+    height: 150vh;
+}

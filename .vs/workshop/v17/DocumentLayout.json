@@ -1,0 +1,415 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\JLindk\\Desktop\\BooleanNew\\thecopilot\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{20C62486-17B4-4414-B80A-152B8467DAB5}|workshop.wwwapp\\workshop.wwwapp.csproj|c:\\users\\jlindk\\desktop\\booleannew\\thecopilot\\workshop.wwwapp\\pages\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{20C62486-17B4-4414-B80A-152B8467DAB5}|workshop.wwwapp\\workshop.wwwapp.csproj|solutionrelative:workshop.wwwapp\\pages\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{20C62486-17B4-4414-B80A-152B8467DAB5}|workshop.wwwapp\\workshop.wwwapp.csproj|c:\\users\\jlindk\\desktop\\booleannew\\thecopilot\\workshop.wwwapp\\wwwroot\\css\\styles.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}",
+      "RelativeMoniker": "D:0:0:{20C62486-17B4-4414-B80A-152B8467DAB5}|workshop.wwwapp\\workshop.wwwapp.csproj|solutionrelative:workshop.wwwapp\\wwwroot\\css\\styles.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{20C62486-17B4-4414-B80A-152B8467DAB5}|workshop.wwwapp\\workshop.wwwapp.csproj|c:\\users\\jlindk\\desktop\\booleannew\\thecopilot\\workshop.wwwapp\\wwwroot\\css\\privacy.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}",
+      "RelativeMoniker": "D:0:0:{20C62486-17B4-4414-B80A-152B8467DAB5}|workshop.wwwapp\\workshop.wwwapp.csproj|solutionrelative:workshop.wwwapp\\wwwroot\\css\\privacy.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{20C62486-17B4-4414-B80A-152B8467DAB5}|workshop.wwwapp\\workshop.wwwapp.csproj|c:\\users\\jlindk\\desktop\\booleannew\\thecopilot\\workshop.wwwapp\\pages\\privacy.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{20C62486-17B4-4414-B80A-152B8467DAB5}|workshop.wwwapp\\workshop.wwwapp.csproj|solutionrelative:workshop.wwwapp\\pages\\privacy.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{20C62486-17B4-4414-B80A-152B8467DAB5}|workshop.wwwapp\\workshop.wwwapp.csproj|c:\\users\\jlindk\\desktop\\booleannew\\thecopilot\\workshop.wwwapp\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}",
+      "RelativeMoniker": "D:0:0:{20C62486-17B4-4414-B80A-152B8467DAB5}|workshop.wwwapp\\workshop.wwwapp.csproj|solutionrelative:workshop.wwwapp\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{20C62486-17B4-4414-B80A-152B8467DAB5}|workshop.wwwapp\\workshop.wwwapp.csproj|c:\\users\\jlindk\\desktop\\booleannew\\thecopilot\\workshop.wwwapp\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.js||{14D17961-FE51-464D-9111-C4AF11D7D99A}",
+      "RelativeMoniker": "D:0:0:{20C62486-17B4-4414-B80A-152B8467DAB5}|workshop.wwwapp\\workshop.wwwapp.csproj|solutionrelative:workshop.wwwapp\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.js||{14D17961-FE51-464D-9111-C4AF11D7D99A}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{20C62486-17B4-4414-B80A-152B8467DAB5}|workshop.wwwapp\\workshop.wwwapp.csproj|c:\\users\\jlindk\\desktop\\booleannew\\thecopilot\\workshop.wwwapp\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.css.map||{3B902123-F8A7-4915-9F01-361F908088D0}",
+      "RelativeMoniker": "D:0:0:{20C62486-17B4-4414-B80A-152B8467DAB5}|workshop.wwwapp\\workshop.wwwapp.csproj|solutionrelative:workshop.wwwapp\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.css.map||{3B902123-F8A7-4915-9F01-361F908088D0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{20C62486-17B4-4414-B80A-152B8467DAB5}|workshop.wwwapp\\workshop.wwwapp.csproj|c:\\users\\jlindk\\desktop\\booleannew\\thecopilot\\workshop.wwwapp\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css.map||{3B902123-F8A7-4915-9F01-361F908088D0}",
+      "RelativeMoniker": "D:0:0:{20C62486-17B4-4414-B80A-152B8467DAB5}|workshop.wwwapp\\workshop.wwwapp.csproj|solutionrelative:workshop.wwwapp\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css.map||{3B902123-F8A7-4915-9F01-361F908088D0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{20C62486-17B4-4414-B80A-152B8467DAB5}|workshop.wwwapp\\workshop.wwwapp.csproj|c:\\users\\jlindk\\desktop\\booleannew\\thecopilot\\workshop.wwwapp\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css.map||{3B902123-F8A7-4915-9F01-361F908088D0}",
+      "RelativeMoniker": "D:0:0:{20C62486-17B4-4414-B80A-152B8467DAB5}|workshop.wwwapp\\workshop.wwwapp.csproj|solutionrelative:workshop.wwwapp\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css.map||{3B902123-F8A7-4915-9F01-361F908088D0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{20C62486-17B4-4414-B80A-152B8467DAB5}|workshop.wwwapp\\workshop.wwwapp.csproj|c:\\users\\jlindk\\desktop\\booleannew\\thecopilot\\workshop.wwwapp\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css.map||{3B902123-F8A7-4915-9F01-361F908088D0}",
+      "RelativeMoniker": "D:0:0:{20C62486-17B4-4414-B80A-152B8467DAB5}|workshop.wwwapp\\workshop.wwwapp.csproj|solutionrelative:workshop.wwwapp\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css.map||{3B902123-F8A7-4915-9F01-361F908088D0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{20C62486-17B4-4414-B80A-152B8467DAB5}|workshop.wwwapp\\workshop.wwwapp.csproj|c:\\users\\jlindk\\desktop\\booleannew\\thecopilot\\workshop.wwwapp\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css.map||{3B902123-F8A7-4915-9F01-361F908088D0}",
+      "RelativeMoniker": "D:0:0:{20C62486-17B4-4414-B80A-152B8467DAB5}|workshop.wwwapp\\workshop.wwwapp.csproj|solutionrelative:workshop.wwwapp\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css.map||{3B902123-F8A7-4915-9F01-361F908088D0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{20C62486-17B4-4414-B80A-152B8467DAB5}|workshop.wwwapp\\workshop.wwwapp.csproj|c:\\users\\jlindk\\desktop\\booleannew\\thecopilot\\workshop.wwwapp\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css.map||{3B902123-F8A7-4915-9F01-361F908088D0}",
+      "RelativeMoniker": "D:0:0:{20C62486-17B4-4414-B80A-152B8467DAB5}|workshop.wwwapp\\workshop.wwwapp.csproj|solutionrelative:workshop.wwwapp\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css.map||{3B902123-F8A7-4915-9F01-361F908088D0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{20C62486-17B4-4414-B80A-152B8467DAB5}|workshop.wwwapp\\workshop.wwwapp.csproj|c:\\users\\jlindk\\desktop\\booleannew\\thecopilot\\workshop.wwwapp\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css.map||{3B902123-F8A7-4915-9F01-361F908088D0}",
+      "RelativeMoniker": "D:0:0:{20C62486-17B4-4414-B80A-152B8467DAB5}|workshop.wwwapp\\workshop.wwwapp.csproj|solutionrelative:workshop.wwwapp\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css.map||{3B902123-F8A7-4915-9F01-361F908088D0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{20C62486-17B4-4414-B80A-152B8467DAB5}|workshop.wwwapp\\workshop.wwwapp.csproj|c:\\users\\jlindk\\desktop\\booleannew\\thecopilot\\workshop.wwwapp\\wwwroot\\js\\site.js||{14D17961-FE51-464D-9111-C4AF11D7D99A}",
+      "RelativeMoniker": "D:0:0:{20C62486-17B4-4414-B80A-152B8467DAB5}|workshop.wwwapp\\workshop.wwwapp.csproj|solutionrelative:workshop.wwwapp\\wwwroot\\js\\site.js||{14D17961-FE51-464D-9111-C4AF11D7D99A}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{20C62486-17B4-4414-B80A-152B8467DAB5}|workshop.wwwapp\\workshop.wwwapp.csproj|c:\\users\\jlindk\\desktop\\booleannew\\thecopilot\\workshop.wwwapp\\wwwroot\\css\\site.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}",
+      "RelativeMoniker": "D:0:0:{20C62486-17B4-4414-B80A-152B8467DAB5}|workshop.wwwapp\\workshop.wwwapp.csproj|solutionrelative:workshop.wwwapp\\wwwroot\\css\\site.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{20C62486-17B4-4414-B80A-152B8467DAB5}|workshop.wwwapp\\workshop.wwwapp.csproj|c:\\users\\jlindk\\desktop\\booleannew\\thecopilot\\workshop.wwwapp\\pages\\_viewimports.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{20C62486-17B4-4414-B80A-152B8467DAB5}|workshop.wwwapp\\workshop.wwwapp.csproj|solutionrelative:workshop.wwwapp\\pages\\_viewimports.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{20C62486-17B4-4414-B80A-152B8467DAB5}|workshop.wwwapp\\workshop.wwwapp.csproj|c:\\users\\jlindk\\desktop\\booleannew\\thecopilot\\workshop.wwwapp\\pages\\_viewstart.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{20C62486-17B4-4414-B80A-152B8467DAB5}|workshop.wwwapp\\workshop.wwwapp.csproj|solutionrelative:workshop.wwwapp\\pages\\_viewstart.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{20C62486-17B4-4414-B80A-152B8467DAB5}|workshop.wwwapp\\workshop.wwwapp.csproj|c:\\users\\jlindk\\desktop\\booleannew\\thecopilot\\workshop.wwwapp\\pages\\error.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{20C62486-17B4-4414-B80A-152B8467DAB5}|workshop.wwwapp\\workshop.wwwapp.csproj|solutionrelative:workshop.wwwapp\\pages\\error.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{20C62486-17B4-4414-B80A-152B8467DAB5}|workshop.wwwapp\\workshop.wwwapp.csproj|c:\\users\\jlindk\\desktop\\booleannew\\thecopilot\\workshop.wwwapp\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{20C62486-17B4-4414-B80A-152B8467DAB5}|workshop.wwwapp\\workshop.wwwapp.csproj|solutionrelative:workshop.wwwapp\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B4169A3D-7453-49B8-9083-C9328B1E724C}|workshop.wwwapi\\workshop.wwwapi.csproj|c:\\users\\jlindk\\desktop\\booleannew\\thecopilot\\workshop.wwwapi\\workshop.wwwapi.http||{5703B403-55E7-4C63-8C88-A8F52C7A45C5}",
+      "RelativeMoniker": "D:0:0:{B4169A3D-7453-49B8-9083-C9328B1E724C}|workshop.wwwapi\\workshop.wwwapi.csproj|solutionrelative:workshop.wwwapi\\workshop.wwwapi.http||{5703B403-55E7-4C63-8C88-A8F52C7A45C5}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B4169A3D-7453-49B8-9083-C9328B1E724C}|workshop.wwwapi\\workshop.wwwapi.csproj|c:\\users\\jlindk\\desktop\\booleannew\\thecopilot\\workshop.wwwapi\\controller\\carcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B4169A3D-7453-49B8-9083-C9328B1E724C}|workshop.wwwapi\\workshop.wwwapi.csproj|solutionrelative:workshop.wwwapi\\controller\\carcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B4169A3D-7453-49B8-9083-C9328B1E724C}|workshop.wwwapi\\workshop.wwwapi.csproj|c:\\users\\jlindk\\desktop\\booleannew\\thecopilot\\workshop.wwwapi\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B4169A3D-7453-49B8-9083-C9328B1E724C}|workshop.wwwapi\\workshop.wwwapi.csproj|solutionrelative:workshop.wwwapi\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B4169A3D-7453-49B8-9083-C9328B1E724C}|workshop.wwwapi\\workshop.wwwapi.csproj|c:\\users\\jlindk\\desktop\\booleannew\\thecopilot\\workshop.wwwapi\\workshop.wwwapi.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{B4169A3D-7453-49B8-9083-C9328B1E724C}|workshop.wwwapi\\workshop.wwwapi.csproj|solutionrelative:workshop.wwwapi\\workshop.wwwapi.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 4,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{e1b7d1f8-9b3c-49b1-8f4f-bfc63a88835d}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "styles.css",
+              "DocumentMoniker": "C:\\Users\\JLindk\\Desktop\\BooleanNew\\thecopilot\\workshop.wwwapp\\wwwroot\\css\\styles.css",
+              "RelativeDocumentMoniker": "workshop.wwwapp\\wwwroot\\css\\styles.css",
+              "ToolTip": "C:\\Users\\JLindk\\Desktop\\BooleanNew\\thecopilot\\workshop.wwwapp\\wwwroot\\css\\styles.css",
+              "RelativeToolTip": "workshop.wwwapp\\wwwroot\\css\\styles.css",
+              "ViewState": "AQIAAEUAAAAAAAAAAAAAAFsAAAALAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003000|",
+              "WhenOpened": "2024-10-24T07:43:30.424Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Privacy.cshtml",
+              "DocumentMoniker": "C:\\Users\\JLindk\\Desktop\\BooleanNew\\thecopilot\\workshop.wwwapp\\Pages\\Privacy.cshtml",
+              "RelativeDocumentMoniker": "workshop.wwwapp\\Pages\\Privacy.cshtml",
+              "ToolTip": "C:\\Users\\JLindk\\Desktop\\BooleanNew\\thecopilot\\workshop.wwwapp\\Pages\\Privacy.cshtml",
+              "RelativeToolTip": "workshop.wwwapp\\Pages\\Privacy.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABoAAAAgAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-10-24T07:46:47.655Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "privacy.css",
+              "DocumentMoniker": "C:\\Users\\JLindk\\Desktop\\BooleanNew\\thecopilot\\workshop.wwwapp\\wwwroot\\css\\privacy.css",
+              "RelativeDocumentMoniker": "workshop.wwwapp\\wwwroot\\css\\privacy.css",
+              "ToolTip": "C:\\Users\\JLindk\\Desktop\\BooleanNew\\thecopilot\\workshop.wwwapp\\wwwroot\\css\\privacy.css",
+              "RelativeToolTip": "workshop.wwwapp\\wwwroot\\css\\privacy.css",
+              "ViewState": "AQIAABsAAAAAAAAAAAAowDMAAAANAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003000|",
+              "WhenOpened": "2024-10-24T08:42:54.341Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\Users\\JLindk\\Desktop\\BooleanNew\\thecopilot\\workshop.wwwapp\\Pages\\Index.cshtml",
+              "RelativeDocumentMoniker": "workshop.wwwapp\\Pages\\Index.cshtml",
+              "ToolTip": "C:\\Users\\JLindk\\Desktop\\BooleanNew\\thecopilot\\workshop.wwwapp\\Pages\\Index.cshtml",
+              "RelativeToolTip": "workshop.wwwapp\\Pages\\Index.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAgAAAAGAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-10-24T07:15:32.775Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "bootstrap.css.map",
+              "DocumentMoniker": "C:\\Users\\JLindk\\Desktop\\BooleanNew\\thecopilot\\workshop.wwwapp\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.css.map",
+              "RelativeDocumentMoniker": "workshop.wwwapp\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.css.map",
+              "ToolTip": "C:\\Users\\JLindk\\Desktop\\BooleanNew\\thecopilot\\workshop.wwwapp\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.css.map",
+              "RelativeToolTip": "workshop.wwwapp\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.css.map",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAACz4gIA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001001|",
+              "WhenOpened": "2024-10-24T08:18:55.912Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "bootstrap-utilities.rtl.css.map",
+              "DocumentMoniker": "C:\\Users\\JLindk\\Desktop\\BooleanNew\\thecopilot\\workshop.wwwapp\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css.map",
+              "RelativeDocumentMoniker": "workshop.wwwapp\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css.map",
+              "ToolTip": "C:\\Users\\JLindk\\Desktop\\BooleanNew\\thecopilot\\workshop.wwwapp\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css.map",
+              "RelativeToolTip": "workshop.wwwapp\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css.map",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAADclgIA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001001|",
+              "WhenOpened": "2024-10-24T08:18:08.842Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "bootstrap.css",
+              "DocumentMoniker": "C:\\Users\\JLindk\\Desktop\\BooleanNew\\thecopilot\\workshop.wwwapp\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.css",
+              "RelativeDocumentMoniker": "workshop.wwwapp\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.css",
+              "ToolTip": "C:\\Users\\JLindk\\Desktop\\BooleanNew\\thecopilot\\workshop.wwwapp\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.css",
+              "RelativeToolTip": "workshop.wwwapp\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.css",
+              "ViewState": "AQIAAHAVAAAAAAAAAAAYwIMVAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003000|",
+              "WhenOpened": "2024-10-24T08:18:13.835Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "bootstrap.js",
+              "DocumentMoniker": "C:\\Users\\JLindk\\Desktop\\BooleanNew\\thecopilot\\workshop.wwwapp\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.js",
+              "RelativeDocumentMoniker": "workshop.wwwapp\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.js",
+              "ToolTip": "C:\\Users\\JLindk\\Desktop\\BooleanNew\\thecopilot\\workshop.wwwapp\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.js",
+              "RelativeToolTip": "workshop.wwwapp\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.js",
+              "ViewState": "AQIAABUAAAAAAAAAAAAAAAwAAAAkAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001646|",
+              "WhenOpened": "2024-10-24T08:19:16.501Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "bootstrap-utilities.css.map",
+              "DocumentMoniker": "C:\\Users\\JLindk\\Desktop\\BooleanNew\\thecopilot\\workshop.wwwapp\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css.map",
+              "RelativeDocumentMoniker": "workshop.wwwapp\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css.map",
+              "ToolTip": "C:\\Users\\JLindk\\Desktop\\BooleanNew\\thecopilot\\workshop.wwwapp\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css.map",
+              "RelativeToolTip": "workshop.wwwapp\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css.map",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAVlwIA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001001|",
+              "WhenOpened": "2024-10-24T08:18:04.887Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "bootstrap-reboot.rtl.css.map",
+              "DocumentMoniker": "C:\\Users\\JLindk\\Desktop\\BooleanNew\\thecopilot\\workshop.wwwapp\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css.map",
+              "RelativeDocumentMoniker": "workshop.wwwapp\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css.map",
+              "ToolTip": "C:\\Users\\JLindk\\Desktop\\BooleanNew\\thecopilot\\workshop.wwwapp\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css.map",
+              "RelativeToolTip": "workshop.wwwapp\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css.map",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAADYawEA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001001|",
+              "WhenOpened": "2024-10-24T08:17:49.751Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "bootstrap-reboot.css.map",
+              "DocumentMoniker": "C:\\Users\\JLindk\\Desktop\\BooleanNew\\thecopilot\\workshop.wwwapp\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css.map",
+              "RelativeDocumentMoniker": "workshop.wwwapp\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css.map",
+              "ToolTip": "C:\\Users\\JLindk\\Desktop\\BooleanNew\\thecopilot\\workshop.wwwapp\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css.map",
+              "RelativeToolTip": "workshop.wwwapp\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css.map",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAADLawEA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001001|",
+              "WhenOpened": "2024-10-24T08:17:44.418Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "bootstrap-grid.rtl.css.map",
+              "DocumentMoniker": "C:\\Users\\JLindk\\Desktop\\BooleanNew\\thecopilot\\workshop.wwwapp\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css.map",
+              "RelativeDocumentMoniker": "workshop.wwwapp\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css.map",
+              "ToolTip": "C:\\Users\\JLindk\\Desktop\\BooleanNew\\thecopilot\\workshop.wwwapp\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css.map",
+              "RelativeToolTip": "workshop.wwwapp\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css.map",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAABWsAIA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001001|",
+              "WhenOpened": "2024-10-24T08:17:38.47Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "bootstrap-grid.css.map",
+              "DocumentMoniker": "C:\\Users\\JLindk\\Desktop\\BooleanNew\\thecopilot\\workshop.wwwapp\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css.map",
+              "RelativeDocumentMoniker": "workshop.wwwapp\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css.map",
+              "ToolTip": "C:\\Users\\JLindk\\Desktop\\BooleanNew\\thecopilot\\workshop.wwwapp\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css.map",
+              "RelativeToolTip": "workshop.wwwapp\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css.map",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAABSsAIA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001001|",
+              "WhenOpened": "2024-10-24T08:17:26.8Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "site.css",
+              "DocumentMoniker": "C:\\Users\\JLindk\\Desktop\\BooleanNew\\thecopilot\\workshop.wwwapp\\wwwroot\\css\\site.css",
+              "RelativeDocumentMoniker": "workshop.wwwapp\\wwwroot\\css\\site.css",
+              "ToolTip": "C:\\Users\\JLindk\\Desktop\\BooleanNew\\thecopilot\\workshop.wwwapp\\wwwroot\\css\\site.css",
+              "RelativeToolTip": "workshop.wwwapp\\wwwroot\\css\\site.css",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003000|",
+              "WhenOpened": "2024-10-24T08:10:26.833Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 17,
+              "Title": "Error.cshtml",
+              "DocumentMoniker": "C:\\Users\\JLindk\\Desktop\\BooleanNew\\thecopilot\\workshop.wwwapp\\Pages\\Error.cshtml",
+              "RelativeDocumentMoniker": "workshop.wwwapp\\Pages\\Error.cshtml",
+              "ToolTip": "C:\\Users\\JLindk\\Desktop\\BooleanNew\\thecopilot\\workshop.wwwapp\\Pages\\Error.cshtml",
+              "RelativeToolTip": "workshop.wwwapp\\Pages\\Error.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-10-24T08:10:18.556Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "_ViewStart.cshtml",
+              "DocumentMoniker": "C:\\Users\\JLindk\\Desktop\\BooleanNew\\thecopilot\\workshop.wwwapp\\Pages\\_ViewStart.cshtml",
+              "RelativeDocumentMoniker": "workshop.wwwapp\\Pages\\_ViewStart.cshtml",
+              "ToolTip": "C:\\Users\\JLindk\\Desktop\\BooleanNew\\thecopilot\\workshop.wwwapp\\Pages\\_ViewStart.cshtml",
+              "RelativeToolTip": "workshop.wwwapp\\Pages\\_ViewStart.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-10-24T08:09:17.299Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "site.js",
+              "DocumentMoniker": "C:\\Users\\JLindk\\Desktop\\BooleanNew\\thecopilot\\workshop.wwwapp\\wwwroot\\js\\site.js",
+              "RelativeDocumentMoniker": "workshop.wwwapp\\wwwroot\\js\\site.js",
+              "ToolTip": "C:\\Users\\JLindk\\Desktop\\BooleanNew\\thecopilot\\workshop.wwwapp\\wwwroot\\js\\site.js",
+              "RelativeToolTip": "workshop.wwwapp\\wwwroot\\js\\site.js",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAQAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001646|",
+              "WhenOpened": "2024-10-24T08:10:32.518Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 18,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\JLindk\\Desktop\\BooleanNew\\thecopilot\\workshop.wwwapp\\Program.cs",
+              "RelativeDocumentMoniker": "workshop.wwwapp\\Program.cs",
+              "ToolTip": "C:\\Users\\JLindk\\Desktop\\BooleanNew\\thecopilot\\workshop.wwwapp\\Program.cs",
+              "RelativeToolTip": "workshop.wwwapp\\Program.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA0AAAABAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-24T08:10:08.764Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "_ViewImports.cshtml",
+              "DocumentMoniker": "C:\\Users\\JLindk\\Desktop\\BooleanNew\\thecopilot\\workshop.wwwapp\\Pages\\_ViewImports.cshtml",
+              "RelativeDocumentMoniker": "workshop.wwwapp\\Pages\\_ViewImports.cshtml",
+              "ToolTip": "C:\\Users\\JLindk\\Desktop\\BooleanNew\\thecopilot\\workshop.wwwapp\\Pages\\_ViewImports.cshtml",
+              "RelativeToolTip": "workshop.wwwapp\\Pages\\_ViewImports.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-10-24T08:09:16.037Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 20,
+              "Title": "CarController.cs",
+              "DocumentMoniker": "C:\\Users\\JLindk\\Desktop\\BooleanNew\\thecopilot\\workshop.wwwapi\\Controller\\CarController.cs",
+              "RelativeDocumentMoniker": "workshop.wwwapi\\Controller\\CarController.cs",
+              "ToolTip": "C:\\Users\\JLindk\\Desktop\\BooleanNew\\thecopilot\\workshop.wwwapi\\Controller\\CarController.cs",
+              "RelativeToolTip": "workshop.wwwapi\\Controller\\CarController.cs",
+              "ViewState": "AQIAACoAAAAAAAAAAAAmwDsAAAASAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-24T07:31:10.965Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 21,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\JLindk\\Desktop\\BooleanNew\\thecopilot\\workshop.wwwapi\\Program.cs",
+              "RelativeDocumentMoniker": "workshop.wwwapi\\Program.cs",
+              "ToolTip": "C:\\Users\\JLindk\\Desktop\\BooleanNew\\thecopilot\\workshop.wwwapi\\Program.cs",
+              "RelativeToolTip": "workshop.wwwapi\\Program.cs",
+              "ViewState": "AQIAABsAAAAAAAAAAAAAACsAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-24T06:52:32.662Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 19,
+              "Title": "workshop.wwwapi.http",
+              "DocumentMoniker": "C:\\Users\\JLindk\\Desktop\\BooleanNew\\thecopilot\\workshop.wwwapi\\workshop.wwwapi.http",
+              "RelativeDocumentMoniker": "workshop.wwwapi\\workshop.wwwapi.http",
+              "ToolTip": "C:\\Users\\JLindk\\Desktop\\BooleanNew\\thecopilot\\workshop.wwwapi\\workshop.wwwapi.http",
+              "RelativeToolTip": "workshop.wwwapi\\workshop.wwwapi.http",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAJAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003502|",
+              "WhenOpened": "2024-10-24T07:24:57.036Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 22,
+              "Title": "workshop.wwwapi",
+              "DocumentMoniker": "C:\\Users\\JLindk\\Desktop\\BooleanNew\\thecopilot\\workshop.wwwapi\\workshop.wwwapi.csproj",
+              "RelativeDocumentMoniker": "workshop.wwwapi\\workshop.wwwapi.csproj",
+              "ToolTip": "C:\\Users\\JLindk\\Desktop\\BooleanNew\\thecopilot\\workshop.wwwapi\\workshop.wwwapi.csproj",
+              "RelativeToolTip": "workshop.wwwapi\\workshop.wwwapi.csproj",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2024-10-24T07:30:44.817Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
